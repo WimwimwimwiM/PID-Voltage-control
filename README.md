@@ -5,4 +5,4 @@ PID Voltage control by C++ arduino
 PID Voltage control by C++ languages 
 
 ## Features
--control and maintain stable voltage output at a specified setpoint
+-Control and maintain stable voltage output at a specified setpoint
